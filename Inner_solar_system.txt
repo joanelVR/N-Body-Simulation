@@ -1,0 +1,59 @@
+49
+5.0e+11
+ 0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  1.9890e+30      sun.gif
+ 5.7900e+10  0.0000e+00  0.0000e+00  4.7900e+04  3.3020e+23  mercury.gif
+ 1.0820e+11  0.0000e+00  0.0000e+00  3.5000e+04  4.8690e+24    venus.gif
+ 1.4960e+11  0.0000e+00  0.0000e+00  2.9800e+04  5.9740e+24    earth.gif
+ 2.2790e+11  0.0000e+00  0.0000e+00  2.4100e+04  6.4190e+23     mars.gif
+ 3.2910e+11  0.0000e+00  0.0000e+00  2.0000e+04  2.3000e+23    asteroid.gif
+ 3.4270e+11  0.0000e+00  0.0000e+00  2.0000e+04  2.3000e+23    asteroid.gif
+ 3.5630e+11  3.3434e+02  0.0000e+00  2.0000e+04  2.3000e+23    asteroid.gif
+ 3.6990e+11  4.7870e+02  0.0000e+00  2.0000e+04  2.3000e+23    asteroid.gif
+ 3.8350e+11  3.2910e+02  0.0000e+00  2.0000e+04  2.3000e+23    asteroid.gif
+ 3.9710e+11  5.0000e+02  0.0000e+00  2.0000e+04  2.3000e+23    asteroid.gif
+ 4.1070e+11  7.0000e+02  0.0000e+00  2.0000e+04  2.3000e+23    asteroid.gif
+ 4.2430e+11  2.0000e+02  0.0000e+00  1.7000e+04  2.3000e+23    asteroid.gif
+ 4.3790e+11  5.0000e+02  0.0000e+00  1.7000e+04  2.3000e+23    asteroid.gif
+ 4.5150e+11  9.9000e+02  0.0000e+00  1.4000e+04  2.3000e+23    asteroid.gif
+ 4.7870e+11  6.0000e+02  0.0000e+00  1.7000e+04  2.3000e+23    asteroid.gif
+ -3.2910e+11  0.0000e+00  0.0000e+00  -2.0000e+04  2.3000e+23    asteroid.gif
+ -3.4270e+11  0.0000e+00  0.0000e+00  -2.0000e+04  2.3000e+23    asteroid.gif
+ -3.5630e+11  3.3434e+02  0.0000e+00  -2.0000e+04  2.3000e+23    asteroid.gif
+ -3.6990e+11  4.7870e+02  0.0000e+00  -2.0000e+04  2.3000e+23    asteroid.gif
+ -3.8350e+11  3.2910e+02  0.0000e+00  -2.0000e+04  2.3000e+23    asteroid.gif
+ -3.9710e+11  5.0000e+02  0.0000e+00  -2.0000e+04  2.3000e+23    asteroid.gif
+ -4.1070e+11  7.0000e+02  0.0000e+00  -2.0000e+04  2.3000e+23    asteroid.gif
+ -4.2430e+11  2.0000e+02  0.0000e+00  -1.7000e+04  2.3000e+23    asteroid.gif
+ -4.3790e+11  5.0000e+02  0.0000e+00  -1.7000e+04  2.3000e+23    asteroid.gif
+ -4.5150e+11  9.9000e+02  0.0000e+00  -1.4000e+04  2.3000e+23    asteroid.gif
+ -4.7870e+11  6.0000e+02  0.0000e+00  -1.7000e+04  2.3000e+23    asteroid.gif
+ 0.0000e+00  3.2910e+11  -2.0000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 0.0000e+00  3.4270e+11  -2.0000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 3.3434e+02  3.5630e+11  -2.0000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 4.7870e+02  3.6990e+11  -2.0000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 3.2910e+02  3.8350e+11  -2.0000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 5.0000e+02  3.9710e+11  -2.0000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 7.0000e+02  4.1070e+11  -2.0000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 2.0000e+02  4.2430e+11  -1.7000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 5.0000e+02  4.3790e+11  -1.7000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 9.9000e+02  4.5150e+11  -1.4000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 6.0000e+02  4.7870e+11  -1.7000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 0.0000e+00  -3.2910e+11  2.0000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 0.0000e+00  -3.4270e+11  2.0000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 3.3434e+02  -3.5630e+11  2.0000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 4.7870e+02  -3.6990e+11  2.0000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 3.2910e+02  -3.8350e+11  2.0000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 5.0000e+02  -3.9710e+11  2.0000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 7.0000e+02  -4.1070e+11  2.0000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 2.0000e+02  -4.2430e+11  1.7000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 5.0000e+02  -4.3790e+11  1.7000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 9.9000e+02  -4.5150e+11  1.4000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+ 6.0000e+02  -4.7870e+11  1.7000e+04  0.0000e+00  2.3000e+23    asteroid.gif
+
+Creator of this universe: Joanel Vasquez
+This file contains the sun and the inner planets of our Solar System with the asteroid belt.
+There are 44 asteroids and they start different positions and with different initial velocities.
+
+NOTE: Please use a longer time to give enough time for the asteroid belt to truly form (t >= 257788000.0)
+NOTE: comment out the sleep function (on line 105 for my implementation) to make the objects move faster.
+      Because there are 49 objects on the screen, having the sleep function will make the program run too slow.
